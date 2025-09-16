@@ -1,4 +1,3 @@
-# The CDC conjecture
 # Cycle double cover conjecture
 
 The CDC conjecture states that for every bridgeless graph, there is a family of cycles such that each edge is covered by exactly two members of this family.
